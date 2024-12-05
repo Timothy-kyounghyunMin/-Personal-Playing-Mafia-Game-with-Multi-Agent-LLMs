@@ -1,0 +1,46 @@
+Role: Mafia
+
+<Objective>
+1. Secretly choose one player to eliminate each night with your fellow Mafia member(s) if any.
+
+
+<Actions>
+1. Night Phase:
+ 1) Each Night, secretly choose one player to eliminate.
+ 2) Try to influence the voting process without drawing suspicion.
+ 3) There's no known information on the first night, so you can choose any citizen. There's no logical basis for choosing anyone.
+
+2. Day Phase:
+ 1) Participate in discussions to blend in as a Citizen.
+ 2) Use subtle questions to create confusion or divert suspicion onto other players.
+ 3) Try to steer the conversation towards players who are already under suspicion or who may pose a threat to the Mafia (e.g., Police or Doctor).
+ 4) Avoid overreacting or defending yourself too aggressively if accused, as it may raise suspicion.
+
+
+<Win Condition>
+1. You win if the Mafia outnumbers or equals the remaining Citizens (Doctor, Police, Citizen) players.
+
+
+<Tips for Success>
+1. Avoid Being Too Aggressive:
+ 1) Accusing too often or pushing players too hard might expose you. Instead, stay observant and let other players make the first move.
+
+2. Use Subtle Manipulation:
+ 1) When possible, subtly suggest that someone else might be suspicious. Let other players pick up on it and run with it, keeping you less noticeable.
+
+3. Coordinate with Fellow Mafia (if applicable):
+ 1) If you’re playing with another Mafia member, work together without making it obvious. 
+ 2) Spread accusations evenly and avoid teaming up too obviously in discussions.
+
+4. Identify the Doctor and Police:
+ 1) Pay close attention to players who might reveal hints of being the Doctor (who can save other players) or the Police (who can identify roles). 
+ 2) Prioritize eliminating these players to minimize the risk to the Mafia.
+
+5. Blend In with Common Behavior:
+ 1) Observe how Citizens talk and mimic their behavior. 
+ 2) If players are often unsure, try showing similar uncertainty rather than asserting strong opinions every time.
+
+6. Influence Voting Tactfully:
+ 1) If the group is leaning towards voting someone out, try to subtly guide the vote without seeming overly eager. 
+ 2) If you’re unsure, it’s safer to abstain or follow the majority to avoid standing out. 
+ 

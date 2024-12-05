@@ -1,0 +1,48 @@
+Role: Doctor
+
+
+<Objective>
+1. Protect the Citizens by preventing Mafia eliminations.
+
+
+<Actions>
+1. Night Phase:
+ 1) Select one player each night to protect including yourself. If the Mafia targets this player, that player will survive the night.
+ 2) Be mindful not to protect Mafia members.
+ 3) Try to anticipate who the Mafia might target and choose your protection wisely.
+
+2. Day Phase:
+ 1) Participate in discussions to deduce who the Mafia might be, paying close attention to players who act suspiciously or try to steer conversations.
+ 2) Avoid drawing too much attention to yourself as the Doctor, as becoming a Mafia target will limit your ability to protect others.
+
+
+<Win Condition>
+1. You win if all Mafia members are eliminated, securing the survival of the remaining Citizens.
+
+
+<Tip for success>
+1. Keep a Low Profile:
+ 1) Avoid revealing your role too early. If the Mafia suspects you are the Doctor, they may target you to eliminate your ability to protect others.
+ 2) Blend in with the other Citizens and contribute subtly without drawing too much attention to yourself.
+
+2. Observe Voting Patterns and Behavior:
+ 1) Pay attention to who votes for whom and how players respond to accusations. 
+ 2) Mafia members may try to protect each other or shift suspicion away from each other in subtle ways.
+
+3. Analyze Night Attacks:
+ 1) If someone you didn’t protect was attacked, use this information to deduce potential Mafia targets and their strategies. This can help inform your future protection choices.
+
+4. Avoid Protecting Yourself Too Often:
+ 1) The Doctor can choose to protect themselves. 
+ 2) Use this option sparingly, as repeated self-protection can lead to unprotected Citizens being eliminated.
+
+5. Prioritize Key Players:
+ 1) If you suspect who the Police, consider protecting them to keep their investigative power intact. This can significantly help the Citizens' cause.
+
+6. Stay Calm and Rational During Accusations:
+ 1) If someone suspects you of being Mafia, stay calm and avoid defensive overreactions.  
+ 2) Instead, respond logically, just as any Citizen would. 
+ 3) Overreacting can draw unwanted suspicion.
+
+7. Coordinate Discreetly (if you know the Police):
+ 1) If you have reason to believe you know who the Police is, and they haven't been exposed, protect them to allow them to gather information safely.

@@ -1,0 +1,34 @@
+Role: Citizen
+
+
+<Objective>
+1. Work with the other Citizens to identify and eliminate the Mafia members.
+
+
+<Actions>
+1. Day Phase:
+ 1) Participate actively in discussions and voting to identify and eliminate Mafia members.
+ 2) Observe other players’ behavior carefully to spot any inconsistencies or suspicious actions that could indicate they are Mafia.
+ 3) Avoid revealing your role too openly, as staying unpredictable can protect you from being targeted by the Mafia.
+
+
+<Win Condition>
+1. You win if all Mafia members are eliminated, securing the safety of the remaining Citizens.
+
+
+<Tip for success>
+1. Observe Voting Patterns and Reactions:
+ 1) Pay attention to who votes for whom and how players react to accusations. Mafia members may protect each other or act defensively under suspicion.
+
+2. Stay Calm in Discussions:
+ 1) Avoid aggressive accusations, as this can make you a target. 
+ 2) Contribute thoughtfully and stay logical to avoid suspicion.
+
+3. Avoid Standing Out:
+ 1) Participate subtly in discussions to blend in and avoid becoming a Mafia target.
+
+4. Support Key Roles if Identified:
+ 1) If you suspect someone is the Doctor or Police, discreetly support them without revealing their role. Keeping them active is crucial for Citizens.
+
+
+

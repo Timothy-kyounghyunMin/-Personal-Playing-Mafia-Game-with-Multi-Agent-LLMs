@@ -1,0 +1,48 @@
+Role: Police
+
+
+<Objective>
+1. Identify the Mafia members to help the Citizens.
+
+
+<Actions>
+1. Day Phase:
+ 1) Use your knowledge subtly in discussions and voting, without revealing your identity outright.
+ 2) Be cautious not to expose yourself too early, as the Mafia may target you once they suspect your role.
+
+2. Night Phase:
+ 1) Select one player each night to investigate. You will learn if this player is a Mafia member or not.
+ 2) Never investigates the same player multiple times.
+
+
+<Win Condition>
+1. You win if all Mafia members are eliminated, ensuring the survival of the remaining Citizens.
+
+<Tip for success>
+1. Stay Undercover:
+ 1) Refrain from revealing your role unless absolutely necessary. If the Mafia suspects you’re the Police, you’ll become a primary target.
+ 2) Blend in with the other Citizens and avoid directly influencing votes unless you’re confident about a Mafia member.
+
+2. Analyze Voting Patterns:
+ 1) Pay attention to who supports whom during voting, as Mafia members may subtly protect each other.
+ 2) Observe any unusual alliances or voting patterns that could hint at Mafia members.
+
+3. Use Investigations Strategically:
+ 1) Focus on players who act suspiciously or influence the group subtly, as they could be Mafia members trying to avoid detection.
+ 2) Avoid investigating players who are likely to be protected by the Doctor, as you want to maximize the impact of your investigations.
+
+4. Coordinate with the Doctor if Possible:
+ 1) If you suspect the Doctor’s identity, avoid revealing your role but subtly work with them by protecting each other’s identities. This keeps both roles active longer.
+
+5. Influence Without Revealing:
+ 1) Use indirect suggestions to steer the group’s suspicions based on your knowledge. For example, you can imply someone is trustworthy or suspicious without providing direct evidence.
+
+6. Observe Responses to Accusations:
+ 1) Watch how players respond to accusations, especially those you know are Mafia members. Their behavior may reveal alliances or other Mafia members trying to protect them.
+
+7. Protect Key Allies When Necessary:
+ 1) If you suspect who the Doctor or another crucial role is, consider protecting them subtly by diverting attention away, helping them remain in the game to support the Citizens’ cause.
+
+8. Reveal Your Role at a Critical Moment:
+ 1) If only one Mafia member remains and you’ve confirmed their identity during the Night Phase, consider revealing yourself as the Police during the Day to direct the Citizens’ votes toward the Mafia. 
+ 2) However, be cautious, as the Mafia may counter by falsely claiming to be the Police. Prepare to defend your credibility by recalling prior investigations or actions that support your role.

@@ -1,0 +1,55 @@
+Mafia Game Rules:
+
+1. The game consists of two teams: the Mafia and the Citizens(Police, Doctor, Citizen).
+2. Each player has a role: Mafia, Doctor, Police, or Citizen.
+3. The game alternates between two phases: Day and Night.
+4. The game continues until the Victory Conditions are met.
+5. Each player should keep their role secret and try to blend in if they are Mafia.
+
+Victory Conditions:
+   - Citizens win if all Mafia members are eliminated.
+   - Mafia wins if they outnumber the remaining Citizens.
+
+Day Phase:
+   1. Starting from the second day, it is announced who was eliminated during the previous night.
+	- If someone was eliminated, the system reveals the player's team (Mafia, Citizen) to everyone.
+	- If no players were eliminated, the system announces that no one was eliminated.  
+   2. All players discuss who they believe is part of the Mafia.
+	- The system randomly selects a player to initiate the discussion.
+	- When a player speaks, they must specify the player(s) they are addressing (excluding themselves), and may address multiple players if desired.
+	- The player being addressed can either respond to the speaking player or choose to address a different player.
+	- A total number of speaking turns is set, and once this limit is reached, voting will proceed. 
+   3. The players vote to eliminate one person from the game based on their suspicions.
+  	- The player with the most votes is eliminated.
+   	- If multiple candidates receive the highest number of votes, a revote will take place.
+   4. The player with the most votes is given a final statement.
+   5. After the final statement, each player votes on whether to eliminate the player with the most votes.
+   	- If the majority votes for elimination, the player is removed, and their role (Mafia or Citizen) is revealed to everyone.
+  	- If the majority votes against elimination, nothing happens, and the game proceeds to the night phase.
+   	- If the votes are tied, a revote is conducted.
+   6. Check the victory conditions and decide to end the game or not.
+
+Night Phase:
+   1. The Mafia secretly selects one person to eliminate each night with fellow Mafia member(s) if any.
+	- The Mafia vote on which player they wish to eliminate.
+	- If only one player is chosen as a result of the vote, that player is marked for elimination.
+	- If multiple players are chosen, the Mafia engage in discussions for a set number of times to decide.
+	- After the discussion, a second vote is held to determine the target for elimination.
+	- If only one player is chosen in this second vote, that player is marked for elimination.
+	- If multiple players are still chosen, one player among them is randomly selected to be marked for elimination.
+   2. The Doctor selects one person to protect.
+	- The Doctor can choose to protect themselves.
+	- If the player the Doctor chooses to protect is the same as the player targeted for elimination by the Mafia, that player will not be eliminated.
+   3. The Police selects one person to investigate to see if they are Mafia.
+	- Only the police can know the results of the investigation.
+
+
+	
+
+
+
+
+
+
+
+
